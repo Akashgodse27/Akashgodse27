@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Akashgodse27
+- 👀 I’m interested in Anlaysis
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me godse.akash27@gmail.com
